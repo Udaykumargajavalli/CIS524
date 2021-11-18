@@ -12,5 +12,3 @@ joblib
 MarkupSafe
 virtualenv
 Werkzeug
-wincertstore
-Secondchage
